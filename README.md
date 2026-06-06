@@ -30,3 +30,8 @@ Deploy to any static host — Vercel, Netlify, or Cloudflare Pages. Config files
 - `vercel.json` — SPA rewrites
 - `netlify.toml` — redirect rule
 - `public/_redirects` — Cloudflare Pages
+
+## Known Issues
+Animation glitches in certain sections
+Minor responsive layout inconsistencies
+Performance optimizations still in progress
