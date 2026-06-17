@@ -1,37 +1,32 @@
-# Parth Chittalwar — Portfolio
+### Portfolio V2
 
-A modern, premium portfolio SPA built with React + Vite + TypeScript.
+Status: Experimental Redesign
 
-## Tech Stack
+Repository:
+https://github.com/ParthChittalwar/Portfolio-V2-Beta
 
-- **React 18** + **TypeScript**
-- **Vite** (standard SPA, no SSR)
-- **Tailwind CSS** + **Framer Motion**
-- **React Router v6**
+Live:
+https://portfolio-remaster.pages.dev/
 
-## Getting Started
+What's New Compared to V1:
 
-```bash
-npm install
-npm run dev
-```
+* Complete UI redesign
+* Modern visual language
+* Improved animations
+* Better typography hierarchy
+* Enhanced component structure
+* Improved user experience
 
-## Build
+Issues Addressed:
 
-```bash
-npm run build
-# Output: dist/index.html + dist/assets/
-```
+* Outdated visual presentation
+* Inconsistent spacing
+* Limited visual interactions
 
-## Deployment
+Known Issues:
 
-Deploy to any static host — Vercel, Netlify, or Cloudflare Pages. Config files included:
+* Animation glitches
+* Responsive layout inconsistencies
+* Performance optimization required
 
-- `vercel.json` — SPA rewrites
-- `netlify.toml` — redirect rule
-- `public/_redirects` — Cloudflare Pages
-
-## Known Issues
-Animation glitches in certain sections
-Minor responsive layout inconsistencies
-Performance optimizations still in progress
+---
